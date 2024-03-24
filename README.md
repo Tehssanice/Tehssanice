@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tessanice_d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tessanice_d" height="30" width="40" /></a>
+<a href="https://www.twitter.com/tessanice_d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tessanice_d" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/theresa-nwaru-16220225b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/theresa-nwaru-16220225b" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@tehssad3731" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@tehssad3731" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@tehssad3731" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@tehssad3731" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
