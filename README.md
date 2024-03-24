@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, 👋 I'm Nwaru Chidubem Theresa</h1>
-<h3 align="center">A passionate full stack developer from Nigeria</h3>
+<h1 align="center">Hi there 👋 I'm Nwaru Chidubem Theresa</h1>
+<h3 align="center">I'm a Nigerian Software developer who enjoys coding and solving real-world problems. I also enjoy a little bit of dance 😊. It's nice to meet you.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tehssanice&label=Profile%20views&color=0e75b6&style=flat" alt="tehssanice" /> </p>
 
