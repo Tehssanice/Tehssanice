@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I'm Nwaru Chidubem Theresa</h1>
+<h1 align="center">Hello, I'm Nwaru Chidubem Theresa</h1>
 <h3 align="center">A passionate software developer who continuously seeks to upscale her skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tehssanice&label=Profile%20views&color=0e75b6&style=flat" alt="tehssanice" /> </p>
